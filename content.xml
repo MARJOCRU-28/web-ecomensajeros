@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026050921000384XIM1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605092100032L3PP2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ECOMENSAJEROS: NUESTRA GUÍA INTERACTIVA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>MARÍA JOSÉ CRUZ HERRERA.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>REALIZACIÓN DE NUESTRO PROYECTO: SdA:  ECOMOENSAJEROS &quot;NUESTRA GUÍA INTERACTIVA DE LOS ECOSISTEMAS ANDALUCES&quot;. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778353131390</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moypje50-vbv4naeln</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página nueva</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moypje51-pm6igl7j7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>ECOMENSAJEROS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ECOMENSAJEROS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>ECOMENSAJEROS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778343676834-drkot9fz3</odeBlockId>
+      <blockName>ECOMENSAJEROS</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778343676834-drkot9fz3</odeBlockId>
+          <odeIdeviceId>idevice-1778343676831-2syv5e43t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/1" width="1024" height="768" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778343676831-2syv5e43t","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/1\" width=\"1024\" height=\"768\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778343854163-ljvlrc4kb</odeBlockId>
+      <blockName>PRESENTACIÓN DE LA SdA</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778343854163-ljvlrc4kb</odeBlockId>
+          <odeIdeviceId>idevice-1778343854161-swp72cusg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Bienvenidos Ecomensajeros!</p>
+<p>En esta SdA que vamos a llevar a cabo, vamos a investigar los ecosistemas más cercanos de nuestra comunidad autónoma y transformar esa información en un producto digital y atractivo.</p>
+<p>El objetivo será entender que la tecnología es una ventana para mostrar al mundo lo aprendido y una herramienta fundamental para proteger el entorno natural.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778343854161-swp72cusg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Bienvenidos Ecomensajeros!</p>\n<p>En esta SdA que vamos a llevar a cabo, vamos a investigar los ecosistemas más cercanos de nuestra comunidad autónoma y transformar esa información en un producto digital y atractivo.</p>\n<p>El objetivo será entender que la tecnología es una ventana para mostrar al mundo lo aprendido y una herramienta fundamental para proteger el entorno natural.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778344246251-exmxbx8dp</odeBlockId>
+      <blockName>FICHA TÉCNICA</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778344246251-exmxbx8dp</odeBlockId>
+          <odeIdeviceId>idevice-1778344246249-fvjtywd6h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/2.png" width="1024" height="768" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778344246249-fvjtywd6h","textInfoDurationInput":"","textInfoDurationTextInput":"","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p><img src=\"{{context_path}}/content/resources/2.png\" width=\"1024\" height=\"768\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778344485262-16up0e0sw</odeBlockId>
+      <blockName>¿QUÉ VAMOS A APRENDER?</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778344485262-16up0e0sw</odeBlockId>
+          <odeIdeviceId>idevice-1778344485259-cm2woi0xn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Seleccionar y sintetizar información sobre flora, fauna y conservación.</p>
+<p>Utilizar Canva para comunicar ideas de forma visual.</p>
+<p>Trabajar de forma cooperativa y respetuosa.</p>
+<p>Crear una infografía interactiva con un código QR para una exposición virtual en el colegio.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778344485259-cm2woi0xn","textInfoDurationInput":"","textInfoDurationTextInput":"","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"","textTextarea":"<p>Seleccionar y sintetizar información sobre flora, fauna y conservación.</p>\n<p>Utilizar Canva para comunicar ideas de forma visual.</p>\n<p>Trabajar de forma cooperativa y respetuosa.</p>\n<p>Crear una infografía interactiva con un código QR para una exposición virtual en el colegio.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778344811454-m0ms14ay3</odeBlockId>
+      <blockName>NUESTRA IDENTIDAD Y SEGURIDAD DIGITAL.</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778344811454-m0ms14ay3</odeBlockId>
+          <odeIdeviceId>idevice-1778344811450-p203xuqiy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;" title="GUÍA DEL ECOMENSAJERO SEGURO.pdf"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Para ser un buen Ecomensajero, primero debemos saber navegar seguros.    </span></span><a href="{{context_path}}/content/resources/GUÍA DEL ECOMENSAJERO SEGURO.pdf" title="GUÍA DEL ECOMENSAJERO SEGURO.pdf">pdf</a></span></span></span></span><span dir="auto" style="vertical-align: inherit;"><a href="{{context_path}}/content/resources/GUÍA DEL ECOMENSAJERO SEGURO.pdf" title="GUÍA DEL ECOMENSAJERO SEGURO.pdf"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">activo://98dc0410-d753-5dc8-19ba-47de1613c4aa.pdf</span></span></span></span></span></a></span><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">  </span></span><a href="{{context_path}}/content/resources/GUÍA DEL ECOMENSAJERO SEGURO.pdf" title="GUÍA DEL ECOMENSAJERO SEGURO.pdf"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"></span></span></span></span></span></a><a href="{{context_path}}/content/resources/GUIA DEL ECOMENSAJERO SEGURO.pdf" title="GUIA DEL ECOMENSAJERO SEGURO.pdf"><img src="{{context_path}}/content/resources/GUIA DEL ECOMENSAJERO SEGURO.pdf" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778344811450-p203xuqiy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\" title=\"GUÍA DEL ECOMENSAJERO SEGURO.pdf\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">Para ser un buen Ecomensajero, primero debemos saber navegar seguros.    </span></span><a href=\"{{context_path}}/content/resources/GUÍA DEL ECOMENSAJERO SEGURO.pdf\" title=\"GUÍA DEL ECOMENSAJERO SEGURO.pdf\">pdf</a></span></span></span></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><a href=\"{{context_path}}/content/resources/GUÍA DEL ECOMENSAJERO SEGURO.pdf\" title=\"GUÍA DEL ECOMENSAJERO SEGURO.pdf\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">activo://98dc0410-d753-5dc8-19ba-47de1613c4aa.pdf</span></span></span></span></span></a></span><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\">  </span></span><a href=\"{{context_path}}/content/resources/GUÍA DEL ECOMENSAJERO SEGURO.pdf\" title=\"GUÍA DEL ECOMENSAJERO SEGURO.pdf\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"><span dir=\"auto\" style=\"vertical-align: inherit;\"></span></span></span></span></span></a><a href=\"{{context_path}}/content/resources/GUIA DEL ECOMENSAJERO SEGURO.pdf\" title=\"GUIA DEL ECOMENSAJERO SEGURO.pdf\"><img src=\"{{context_path}}/content/resources/GUIA DEL ECOMENSAJERO SEGURO.pdf\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778345352103-1t9sylbx0</odeBlockId>
+      <blockName>NUESTRA MISIÓN: LA INFOGRAFÍA INTERACTIVA.</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778345352103-1t9sylbx0</odeBlockId>
+          <odeIdeviceId>idevice-1778345352099-g7a34gweq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>El producto</strong>: cada equipo de Ecomensajeros diseñará una infografía interactiva sobre un ecosistema andaluz.</p>
+<p><strong>El objetivo</strong>: sintetizar toda la información que habéis investigado en un formativo visual que sea atractivo y fácil de entender para los demás.</p>
+<p><strong>El toque mágico</strong>: no será un simple dibujo: vuestra infografía tendrá elementos interactivos y un código QR para que cualquier persona pueda ver vuestro trabajo desde su móvil.</p>
+<p><strong>Canva</strong>: es nuestra herramienta de diseño. Nos permite mezclar textos, fotos de animales, iconos de plantas y videos de un solo lugar de forma muy creativa. Al estar en la nube, podéis trabajar en equipo desde los portátiles del colegio.</p>
+<p><strong>Generador de códigos QR</strong>: con él, daremos el salto del mundo digital al mundo físico, pegando vuestros trabajos por el centro para que toda la comunidad educativa lo disfrute.</p>
+<p>Hemos elegido estas herramientas porque ofrecen diseños claros y diferentes tipologías de letras, facilitando así la lectura. Además, el código QR, permite que cualquier persona, sin importar como acceda a la información, pueda disfrutar de vuestro conocimiento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778345352099-g7a34gweq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>El producto</strong>: cada equipo de Ecomensajeros diseñará una infografía interactiva sobre un ecosistema andaluz.</p>\n<p><strong>El objetivo</strong>: sintetizar toda la información que habéis investigado en un formativo visual que sea atractivo y fácil de entender para los demás.</p>\n<p><strong>El toque mágico</strong>: no será un simple dibujo: vuestra infografía tendrá elementos interactivos y un código QR para que cualquier persona pueda ver vuestro trabajo desde su móvil.</p>\n<p><strong>Canva</strong>: es nuestra herramienta de diseño. Nos permite mezclar textos, fotos de animales, iconos de plantas y videos de un solo lugar de forma muy creativa. Al estar en la nube, podéis trabajar en equipo desde los portátiles del colegio.</p>\n<p><strong>Generador de códigos QR</strong>: con él, daremos el salto del mundo digital al mundo físico, pegando vuestros trabajos por el centro para que toda la comunidad educativa lo disfrute.</p>\n<p>Hemos elegido estas herramientas porque ofrecen diseños claros y diferentes tipologías de letras, facilitando así la lectura. Además, el código QR, permite que cualquier persona, sin importar como acceda a la información, pueda disfrutar de vuestro conocimiento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778345901573-omlwha71y</odeBlockId>
+      <blockName>NUESTRA BIBLIOTECA DIGITAL.</blockName>
+      <iconName>case</iconName>
+      <odePagStructureOrder>6</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778345901573-omlwha71y</odeBlockId>
+          <odeIdeviceId>idevice-1778345901571-w3nzpd9jx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Ecomensajeros</strong>: aquí teneis vuestro muro de investigación. He seleccionado los mejores videos, fotos y artículos sobre ecosistemas andaluces para que realicéis unas excelentes infografías.</p>
+<p><a href="{{context_path}}/content/resources/PADLET.pdf" title="PADLET.pdf">{{context_path}}/content/resources/PADLET.pdf</a></p>
+<p>Padlet permite una navegación sencilla y visual, ideal para identifiquéis rápidamente la información relevante.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778345901571-w3nzpd9jx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Ecomensajeros</strong>: aquí teneis vuestro muro de investigación. He seleccionado los mejores videos, fotos y artículos sobre ecosistemas andaluces para que realicéis unas excelentes infografías.</p>\n<p><a href=\"{{context_path}}/content/resources/PADLET.pdf\" title=\"PADLET.pdf\">{{context_path}}/content/resources/PADLET.pdf</a></p>\n<p>Padlet permite una navegación sencilla y visual, ideal para identifiquéis rápidamente la información relevante.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778346164878-nb76nk3ut</odeBlockId>
+      <blockName>¿CÚANDO LO HACEMOS?</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>7</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778346164878-nb76nk3ut</odeBlockId>
+          <odeIdeviceId>idevice-1778346164874-x42zi5krh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="{{context_path}}/content/resources/Línea del tiempo  Ecomensajeros Andaluces Tarea módulo 7.png" title="Línea del tiempo Ecomensajeros Andaluces Tarea módulo 7.png"><img src="{{context_path}}/content/resources/TAREA MÓDULO 7. LÍNEA DEL TIEMPO, ECOMENSAJEROS ANDALUCES.png" width="1366" height="966" alt="" />La línea del tiempo de la SdA: Ecomensajeros Andaluces esta dividida en 4 fases y 6 sesiones: </a></p>
+<p><strong>Fase 1</strong>: Investigación (Sesiones 1-2).</p>
+<p>Tarea: Selección del Ecosistema Andaluz (Doñana, Sierra Nevada, Marismas... y búsqueda de información crítica.</p>
+<p>Agrupamiento: grupos cooperativos de 4 personas: portavoz, secretario, coordinador y controlador.</p>
+<p>Herramientas: buscadores seguros y conexión a internet.</p>
+<p><strong>Fase 2</strong>: Diseño en Canva. (Sesiones 3-4).</p>
+<p>Tarea: Volcar información en una plantilla de Canva, síntesis de texto, elección de iconos y carga de imágenes/vídeos.</p>
+<p>Estrategia digital: Uso responsable de imágenes con licencias Creative Commons.</p>
+<p>Espacio: Aula con portátiles.</p>
+<p><strong>Fase 3</strong>: Interactividad y código QR. (Sesión 5).</p>
+<p>Tarea: Finalizar el diseño e instalar enlaces interactivos. Generar el código QR que enlace al producto final.</p>
+<p>Gestión de la incertidumbre: Aplicaremos un plan B en caso de fallo de la red (descarga del diseño en PDF para visualización offline).</p>
+<p>Agrupamiento: Parejas de revisión (un grupo revisa el trabajo del otro).</p>
+<p><strong>Fase 4</strong>: Difusión y exposición. (Sesión 6).</p>
+<p>Tarea: Impresión de carteles y colocación en puntos estratégicos del centro con una breve presentación oral.</p>
+<p>Producto final: <strong>Ruta de los Ecosistemas</strong> en los pasillos del centro para toda la comunidad educativa.</p>
+<p>Recursos: Dispositivos móviles para escanear los QR y comprobar el funcionamiento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346164874-x42zi5krh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/Línea del tiempo  Ecomensajeros Andaluces Tarea módulo 7.png\" title=\"Línea del tiempo Ecomensajeros Andaluces Tarea módulo 7.png\"><img src=\"{{context_path}}/content/resources/TAREA MÓDULO 7. LÍNEA DEL TIEMPO, ECOMENSAJEROS ANDALUCES.png\" width=\"1366\" height=\"966\" alt=\"\" />La línea del tiempo de la SdA: Ecomensajeros Andaluces esta dividida en 4 fases y 6 sesiones: </a></p>\n<p><strong>Fase 1</strong>: Investigación (Sesiones 1-2).</p>\n<p>Tarea: Selección del Ecosistema Andaluz (Doñana, Sierra Nevada, Marismas... y búsqueda de información crítica.</p>\n<p>Agrupamiento: grupos cooperativos de 4 personas: portavoz, secretario, coordinador y controlador.</p>\n<p>Herramientas: buscadores seguros y conexión a internet.</p>\n<p><strong>Fase 2</strong>: Diseño en Canva. (Sesiones 3-4).</p>\n<p>Tarea: Volcar información en una plantilla de Canva, síntesis de texto, elección de iconos y carga de imágenes/vídeos.</p>\n<p>Estrategia digital: Uso responsable de imágenes con licencias Creative Commons.</p>\n<p>Espacio: Aula con portátiles.</p>\n<p><strong>Fase 3</strong>: Interactividad y código QR. (Sesión 5).</p>\n<p>Tarea: Finalizar el diseño e instalar enlaces interactivos. Generar el código QR que enlace al producto final.</p>\n<p>Gestión de la incertidumbre: Aplicaremos un plan B en caso de fallo de la red (descarga del diseño en PDF para visualización offline).</p>\n<p>Agrupamiento: Parejas de revisión (un grupo revisa el trabajo del otro).</p>\n<p><strong>Fase 4</strong>: Difusión y exposición. (Sesión 6).</p>\n<p>Tarea: Impresión de carteles y colocación en puntos estratégicos del centro con una breve presentación oral.</p>\n<p>Producto final: <strong>Ruta de los Ecosistemas</strong> en los pasillos del centro para toda la comunidad educativa.</p>\n<p>Recursos: Dispositivos móviles para escanear los QR y comprobar el funcionamiento.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778346336291-us6x9bt6y</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>8</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778346336291-us6x9bt6y</odeBlockId>
+          <odeIdeviceId>idevice-1778346336287-qs6cqztay</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778346336287-qs6cqztay","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778347108931-rb48gngi2</odeBlockId>
+      <blockName>¿CÓMO MEDIREMOS NUESTRO ÉXITO?.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>9</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778347108931-rb48gngi2</odeBlockId>
+          <odeIdeviceId>idevice-1778347108930-sttxtncu3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta sección, relacionamos lo que hacemos en clase con lo que aprendemos. (Criterios de Evaluación).</p>
+<p><a href="{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf" title="Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf">{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778347108930-sttxtncu3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta sección, relacionamos lo que hacemos en clase con lo que aprendemos. (Criterios de Evaluación).</p>\n<p><a href=\"{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf\" title=\"Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf\">{{context_path}}/content/resources/Copia de 6.1. Asociamos tareas a Criterios de evaluación_.pdf</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778347235763-t42fs8hpj</odeBlockId>
+      <blockName>MIS HERRAMIENTAS DE EVALUACIÓN.</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>10</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778347235763-t42fs8hpj</odeBlockId>
+          <odeIdeviceId>idevice-1778347235759-8l93oe3j3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta SdA utiliza tres mecanismos para obtener una imagen real del aprendizaje:</p>
+<p><strong>autoevaluación/coevaluación, evaluación docente y observación directa.</strong></p>
+<p>1. <strong>Diana de evaluación (autoevaluación/coevaluación).</strong></p>
+<p>Se aplica en la sesión 5 para evaluar la capacidad de trabajo colaborativo y respeto.</p>
+<p>Netiqueta: desde mensajes neutros (Nivel 1) hasta liderazgo positivo y motivador (Nivel 4).</p>
+<p>Colaboración: desde trabajo individual (Nivel 1) hasta facilitar el trabajo de los demás (Nivel 4).</p>
+<p>Respeto a la Autoría. Desde no citar fuentes (Nivel 1) hasta la atribución perfecta de recursos.</p>
+<p><strong>2. Rúbrica Analítica</strong> en la sesión 6 para evaluar la calidad técnica de la Infografía y el Código QR.</p>
+<p><a href="{{context_path}}/content/resources/INSTRUMENTOS DE EVALUACIÓN SdA Ecomensajeros Andaluces.pdf" title="INSTRUMENTOS DE EVALUACIÓN SdA Ecomensajeros Andaluces.pdf">{{context_path}}/content/resources/INSTRUMENTOS DE EVALUACIÓN SdA Ecomensajeros Andaluces.pdf</a></p>
+<p><strong>3. Registro de observación. </strong></p>
+<p>Durante las sesiones 3 a 5, se utiliza una App para anotar evidencias de respeto y resolución de conflictos de forma cualitativa.</p>
+<p>Para garantizar que nada detenga nuestro aprendizaje, aplicaremos estos tres niveles:</p>
+<p><strong>1. Ayudante TIC:</strong> un alumno experto por equipo para ayudar a sus compañeros.</p>
+<p><strong>2. Plan B </strong>(analógico) por si falla internet.</p>
+<p><strong>3. Banco de recursos local</strong>: tutoriales y materiales descargados previamente en los equipos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778347235759-8l93oe3j3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta SdA utiliza tres mecanismos para obtener una imagen real del aprendizaje:</p>\n<p><strong>autoevaluación/coevaluación, evaluación docente y observación directa.</strong></p>\n<p>1. <strong>Diana de evaluación (autoevaluación/coevaluación).</strong></p>\n<p>Se aplica en la sesión 5 para evaluar la capacidad de trabajo colaborativo y respeto.</p>\n<p>Netiqueta: desde mensajes neutros (Nivel 1) hasta liderazgo positivo y motivador (Nivel 4).</p>\n<p>Colaboración: desde trabajo individual (Nivel 1) hasta facilitar el trabajo de los demás (Nivel 4).</p>\n<p>Respeto a la Autoría. Desde no citar fuentes (Nivel 1) hasta la atribución perfecta de recursos.</p>\n<p><strong>2. Rúbrica Analítica</strong> en la sesión 6 para evaluar la calidad técnica de la Infografía y el Código QR.</p>\n<p><a href=\"{{context_path}}/content/resources/INSTRUMENTOS DE EVALUACIÓN SdA Ecomensajeros Andaluces.pdf\" title=\"INSTRUMENTOS DE EVALUACIÓN SdA Ecomensajeros Andaluces.pdf\">{{context_path}}/content/resources/INSTRUMENTOS DE EVALUACIÓN SdA Ecomensajeros Andaluces.pdf</a></p>\n<p><strong>3. Registro de observación. </strong></p>\n<p>Durante las sesiones 3 a 5, se utiliza una App para anotar evidencias de respeto y resolución de conflictos de forma cualitativa.</p>\n<p>Para garantizar que nada detenga nuestro aprendizaje, aplicaremos estos tres niveles:</p>\n<p><strong>1. Ayudante TIC:</strong> un alumno experto por equipo para ayudar a sus compañeros.</p>\n<p><strong>2. Plan B </strong>(analógico) por si falla internet.</p>\n<p><strong>3. Banco de recursos local</strong>: tutoriales y materiales descargados previamente en los equipos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778348301241-j60kmhmie</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA.</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>11</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778348301241-j60kmhmie</odeBlockId>
+          <odeIdeviceId>idevice-1778348301238-qvl0r3ecz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. INTRODUCCIÓN Y CONTEXTUALIZACIÓN</strong>.</p>
+<p>Esta SdA titulada "Ecomensajeros Andaluces" esta diseñada para el alumnado de 4º de primaria dentro del área de Conocimiento del Medio. El objetivo central es que el alumnado investigue los ecosistemas de nuestra comunidad y los divulgue mediante un producto digital interactivo: <strong>infografía en Canva y Código QR</strong>.</p>
+<p><strong>2. RELACIONES DE TAREAS Y CRITERIOS DE EVALUACIÓN</strong>.</p>
+<p>Para la implementación de este proyecto, se han vinculado las actividades con los siguientes criterios de evaluación:</p>
+<p>La actividad/tarea de investigadores del ecosistema: búsqueda en webs sobre la flora y la fauna, se ha vinculado con el criterio CE. 2.1. Buscar, seleccionar y contrastar información de diferentes fuentes.</p>
+<p>La actividad/tarea de taller de diseño Ecomensajero: creación de la infografía en Canva se han vinculado con el criterio CE. 3.3. crear productos sencillos utilizando herramientas digitales de forma segura y responsable.</p>
+<p>Revisión y Netiqueta: verificación del respeto a la autoría y el uso de mensajes positivos se ha vinculado con el criterio CE. 3.1. utilizar herramientas o plataformas para comunicarse y trabajar de manera colaborativa.</p>
+<p>Lanzamiento del QR: generación del código y montaje del panel informativo se ha vinculado con el criterio CE.3.3 fomentando el uso sostenible de las herramientas digitales.</p>
+<p><strong>3. METODOLOGÍA Y ATENCIÓN A LA DIVERSIDAD (DUA).</strong></p>
+<p>Para asegurar que todo el alumnado alcance los objetivos, se proponen las siguientes pautas:</p>
+<p>- Gestión de la incertidumbre digital.</p>
+<p>Se establece un protocolo de tres niveles para resolver problemas técnicos: l<strong>a figura del ayudante TIC, un plan B y un banco de recursos.</strong></p>
+<p><strong>-Evaluación formativa:</strong></p>
+<p>El proceso no busca solo una nota, sino entender como aprende cada alumno mediante el uso combinado de una <strong>Diana de Evaluación</strong> (autoevaluación) y una <strong>Rúbrica</strong> de producto final.</p>
+<p>4. RECOMENDACIONES PARA EL DOCENTE:</p>
+<p>-Rol facilitador: el docente debe actuar como guía, permitiendo que el alumnado gane autonomía y cuidando la calidad del contenido y la creatividad.</p>
+<p>-Seguridad: es fundamental realizar la sesión sobre protección de datos antes de iniciar el trabajo en la nube para gestionar correctamente la identidad del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778348301238-qvl0r3ecz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. INTRODUCCIÓN Y CONTEXTUALIZACIÓN</strong>.</p>\n<p>Esta SdA titulada \"Ecomensajeros Andaluces\" esta diseñada para el alumnado de 4º de primaria dentro del área de Conocimiento del Medio. El objetivo central es que el alumnado investigue los ecosistemas de nuestra comunidad y los divulgue mediante un producto digital interactivo: <strong>infografía en Canva y Código QR</strong>.</p>\n<p><strong>2. RELACIONES DE TAREAS Y CRITERIOS DE EVALUACIÓN</strong>.</p>\n<p>Para la implementación de este proyecto, se han vinculado las actividades con los siguientes criterios de evaluación:</p>\n<p>La actividad/tarea de investigadores del ecosistema: búsqueda en webs sobre la flora y la fauna, se ha vinculado con el criterio CE. 2.1. Buscar, seleccionar y contrastar información de diferentes fuentes.</p>\n<p>La actividad/tarea de taller de diseño Ecomensajero: creación de la infografía en Canva se han vinculado con el criterio CE. 3.3. crear productos sencillos utilizando herramientas digitales de forma segura y responsable.</p>\n<p>Revisión y Netiqueta: verificación del respeto a la autoría y el uso de mensajes positivos se ha vinculado con el criterio CE. 3.1. utilizar herramientas o plataformas para comunicarse y trabajar de manera colaborativa.</p>\n<p>Lanzamiento del QR: generación del código y montaje del panel informativo se ha vinculado con el criterio CE.3.3 fomentando el uso sostenible de las herramientas digitales.</p>\n<p><strong>3. METODOLOGÍA Y ATENCIÓN A LA DIVERSIDAD (DUA).</strong></p>\n<p>Para asegurar que todo el alumnado alcance los objetivos, se proponen las siguientes pautas:</p>\n<p>- Gestión de la incertidumbre digital.</p>\n<p>Se establece un protocolo de tres niveles para resolver problemas técnicos: l<strong>a figura del ayudante TIC, un plan B y un banco de recursos.</strong></p>\n<p><strong>-Evaluación formativa:</strong></p>\n<p>El proceso no busca solo una nota, sino entender como aprende cada alumno mediante el uso combinado de una <strong>Diana de Evaluación</strong> (autoevaluación) y una <strong>Rúbrica</strong> de producto final.</p>\n<p>4. RECOMENDACIONES PARA EL DOCENTE:</p>\n<p>-Rol facilitador: el docente debe actuar como guía, permitiendo que el alumnado gane autonomía y cuidando la calidad del contenido y la creatividad.</p>\n<p>-Seguridad: es fundamental realizar la sesión sobre protección de datos antes de iniciar el trabajo en la nube para gestionar correctamente la identidad del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moypje51-pm6igl7j7</odePageId>
+      <odeBlockId>block-1778349391258-6swy1unq6</odeBlockId>
+      <blockName>CRÉDITOS Y DESCARGA.</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>12</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moypje51-pm6igl7j7</odePageId>
+          <odeBlockId>block-1778349391258-6swy1unq6</odeBlockId>
+          <odeIdeviceId>idevice-1778349391255-ag0qbdvej</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>AUTORÍA Y LICENCIA:</p>
+<p>Proyecto: Ecomensajeros Andaluces.</p>
+<p>Auotora: María José Cruz Herrera.</p>
+<p>Licencia: Este material se publica bajo la licencia CC BY-SA 4.0. Esto significa que puedes compartir, copiar y redistribuir el material en cualquier medio o formato, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778349391255-ag0qbdvej","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>AUTORÍA Y LICENCIA:</p>\n<p>Proyecto: Ecomensajeros Andaluces.</p>\n<p>Auotora: María José Cruz Herrera.</p>\n<p>Licencia: Este material se publica bajo la licencia CC BY-SA 4.0. Esto significa que puedes compartir, copiar y redistribuir el material en cualquier medio o formato, siempre que se reconozca la autoría y se mantenga la misma licencia.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
